@@ -1,0 +1,20 @@
+{
+    "authors": [
+        {
+            "name": "Andy Daniel Navarro Taño",
+            "email": "andaniel05@gmail.com"
+        }
+    ],
+    "platform": {
+        "php": "^7.1"
+    },
+    "require": {
+        "andaniel05/pyramidaltests": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Andaniel05\\PyramidalTests\\Demo\\": "src/",
+            "Andaniel05\\PyramidalTests\\Demo\\Tests\\": "tests/"
+        }
+    }
+}
