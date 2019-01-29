@@ -10,4 +10,6 @@ Change the sources for you needs.
 
 ## Running tests.
 
-    $ ./vendor/bin/phpunit
+    $ ./vendor/bin/phpunit --testdox
+
+If you want run only the pyramidal tests you should uncomment the respective line in the `phpunit.xml` file.
