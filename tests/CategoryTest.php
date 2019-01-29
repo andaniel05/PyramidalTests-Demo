@@ -6,6 +6,8 @@ use PHPUnit\Framework\TestCase;
 use Andaniel05\PyramidalTests\Demo\Category;
 
 /**
+ * This is a traditional PHPUnit test.
+ *
  * @author Andy Daniel Navarro Taño <andaniel05@gmail.com>
  */
 class CategoryTest extends TestCase

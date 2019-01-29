@@ -2,6 +2,8 @@
     <php>
         <!-- Uncomment this line for run pyramidal tests only -->
         <!-- <env name="PYRAMIDAL_ONLY" value="1"></env> -->
+
+        <!-- <env name="PYRAMIDAL_MARGIN" value="4"></env> -->
     </php>
 
     <extensions>
